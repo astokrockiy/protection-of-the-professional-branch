@@ -1,0 +1,22 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.main .main__form {
+    min-height: 300px;
+}
+
+.main .main__input {
+
+}
+
+.main .main__button {
+
+}
+
+.main .main__result {
+
+}
